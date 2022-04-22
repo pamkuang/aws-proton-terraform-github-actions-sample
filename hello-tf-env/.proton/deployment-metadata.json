@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "6be4ead4-51bf-4ce5-ac69-146666d86487",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:346078522763:environment/hello-tf-env",
+    "templateArn" : "arn:aws:proton:us-east-1:346078522763:environment-template/terraform-env",
+    "templateMajorVersion" : "2",
+    "templateMinorVersion" : "0"
+  }
+}
