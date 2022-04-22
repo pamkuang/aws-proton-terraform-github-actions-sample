@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "70345efa-e571-4cc6-8de0-dab0a8986694",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:346078522763:environment/hola-tf-env",
+    "templateArn" : "arn:aws:proton:us-east-1:346078522763:environment-template/terraform-env",
+    "templateMajorVersion" : "2",
+    "templateMinorVersion" : "0"
+  }
+}
