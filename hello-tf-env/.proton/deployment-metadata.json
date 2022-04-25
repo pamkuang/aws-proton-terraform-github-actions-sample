@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "8efcee0a-fd92-4b59-b634-7d467e790d2e",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:346078522763:environment/hello-tf-env",
+    "templateArn" : "arn:aws:proton:us-east-1:346078522763:environment-template/tf-env-template",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
