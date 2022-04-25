@@ -1,0 +1,11 @@
+{
+  "deploymentId" : "0be25c0a-14bd-42bc-a53a-e6d1e875e631",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:346078522763:service/hello-tf-service/service-instance/my-instance",
+    "templateArn" : "arn:aws:proton:us-east-1:346078522763:service-template/simple-service-tf",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0",
+    "environmentArn" : "arn:aws:proton:us-east-1:346078522763:environment/hello-tf-env"
+  }
+}
