@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "921f0875-a5fe-4b73-904b-43a9f358505d",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:346078522763:service/testing-tf-service/pipeline",
+    "templateArn" : "arn:aws:proton:us-east-1:346078522763:service-template/simple-service-tf",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
