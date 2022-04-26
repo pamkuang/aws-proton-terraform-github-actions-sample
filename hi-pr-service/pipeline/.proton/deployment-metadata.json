@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "f44e10cb-5e53-46d0-9eda-4fdfb699b774",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:346078522763:service/hi-pr-service/pipeline",
+    "templateArn" : "arn:aws:proton:us-east-1:346078522763:service-template/simple-service-tf",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
