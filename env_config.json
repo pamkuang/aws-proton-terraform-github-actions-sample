@@ -1,5 +1,5 @@
 {
-    "REPLACE_ME": {
+    "hello-tf-env": {
         "role": "arn:aws:iam::346078522763:role/ExampleGithubRole",
         "region": "us-east-1",
         "state_bucket":"aws-proton-terraform-bucket-346078522763"
