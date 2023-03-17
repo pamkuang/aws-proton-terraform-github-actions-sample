@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "8aea3ecc-4502-4fa4-ba40-c8dafa06b057",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:346078522763:environment/hmm",
+    "templateArn" : "arn:aws:proton:us-east-1:346078522763:environment-template/template-2827e49c-4c18-432e-b611-a6b64f9b83fd-2",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
