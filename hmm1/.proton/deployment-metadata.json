@@ -1,6 +1,6 @@
 {
-  "deploymentId" : "dc87c206-4c8f-40c9-b1b4-3807756f18bd",
-  "isResourceDeleted" : false,
+  "deploymentId" : "<proton-resource-deleted>",
+  "isResourceDeleted" : true,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:us-east-1:346078522763:environment/hmm1",
     "templateArn" : "arn:aws:proton:us-east-1:346078522763:environment-template/template-2827e49c-4c18-432e-b611-a6b64f9b83fd-2",
