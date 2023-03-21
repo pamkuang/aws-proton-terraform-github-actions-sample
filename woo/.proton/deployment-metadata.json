@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "5707012b-e3a0-4fa9-87b0-6324376d4e4b",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:346078522763:environment/woo",
+    "templateArn" : "arn:aws:proton:us-east-1:346078522763:environment-template/template-2827e49c-4c18-432e-b611-a6b64f9b83fd-2",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
