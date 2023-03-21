@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "8e19e1ec-06d4-4512-99cc-c3c56467260a",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:346078522763:service/hallo/pipeline",
+    "templateArn" : "arn:aws:proton:us-east-1:346078522763:service-template/simple-service-tf",
+    "templateMajorVersion" : "3",
+    "templateMinorVersion" : "0"
+  }
+}
