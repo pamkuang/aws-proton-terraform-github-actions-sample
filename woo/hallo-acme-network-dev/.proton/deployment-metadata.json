@@ -1,0 +1,11 @@
+{
+  "deploymentId" : "7d4f1c0c-a03a-494b-bd6a-e6074f565e4e",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:346078522763:service/hallo/service-instance/acme-network-dev",
+    "templateArn" : "arn:aws:proton:us-east-1:346078522763:service-template/simple-service-tf",
+    "templateMajorVersion" : "3",
+    "templateMinorVersion" : "0",
+    "environmentArn" : "arn:aws:proton:us-east-1:346078522763:environment/woo"
+  }
+}
