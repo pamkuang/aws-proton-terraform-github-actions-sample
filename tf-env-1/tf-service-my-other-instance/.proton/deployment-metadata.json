@@ -1,0 +1,11 @@
+{
+  "deploymentId" : "3f656db4-8f94-4c48-92b4-786810285b2a",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:346078522763:service/tf-service/service-instance/my-other-instance",
+    "templateArn" : "arn:aws:proton:us-east-1:346078522763:service-template/simple-service-tf",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0",
+    "environmentArn" : "arn:aws:proton:us-east-1:346078522763:environment/tf-env-1"
+  }
+}
