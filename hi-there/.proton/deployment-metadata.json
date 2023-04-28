@@ -1,9 +1,9 @@
 {
-  "deploymentId" : "67b5ab40-eb41-414a-8e1b-a0504bc145fd",
+  "deploymentId" : "71a70ba1-506e-4d00-a1be-125f48938c59",
   "isResourceDeleted" : false,
   "resourceMetadata" : {
-    "arn" : "arn:aws:proton:us-west-2:346078522763:environment/hi-there",
-    "templateArn" : "arn:aws:proton:us-west-2:346078522763:environment-template/tf-env-template",
+    "arn" : "arn:aws:proton:us-east-1:346078522763:environment/hi-there",
+    "templateArn" : "arn:aws:proton:us-east-1:346078522763:environment-template/tf-env-template",
     "templateMajorVersion" : "1",
     "templateMinorVersion" : "0"
   }
