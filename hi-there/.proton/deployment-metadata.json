@@ -1,6 +1,6 @@
 {
-  "deploymentId" : "eb76e89d-ea69-429f-aa70-39af38651ebc",
-  "isResourceDeleted" : false,
+  "deploymentId" : "<proton-resource-deleted>",
+  "isResourceDeleted" : true,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:us-east-1:346078522763:environment/hi-there",
     "templateArn" : "arn:aws:proton:us-east-1:346078522763:environment-template/tf-env-template",
