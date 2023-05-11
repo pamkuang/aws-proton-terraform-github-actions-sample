@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "040feb1e-c460-4314-886b-e96588726a3f",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:346078522763:service/hi-woo/pipeline",
+    "templateArn" : "arn:aws:proton:us-east-1:346078522763:service-template/simple-service-tf",
+    "templateMajorVersion" : "3",
+    "templateMinorVersion" : "0"
+  }
+}
