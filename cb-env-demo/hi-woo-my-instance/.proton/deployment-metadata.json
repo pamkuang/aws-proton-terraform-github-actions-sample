@@ -1,6 +1,6 @@
 {
-  "deploymentId" : "af563955-bab4-4ae2-b40e-e80a79bc9a4d",
-  "isResourceDeleted" : false,
+  "deploymentId" : "<proton-resource-deleted>",
+  "isResourceDeleted" : true,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:us-east-1:346078522763:service/hi-woo/service-instance/my-instance",
     "templateArn" : "arn:aws:proton:us-east-1:346078522763:service-template/simple-service-tf",
