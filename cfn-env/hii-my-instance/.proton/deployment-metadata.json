@@ -1,0 +1,11 @@
+{
+  "deploymentId" : "9b62e473-fdb4-446d-b5aa-43e80a29356f",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:346078522763:service/hii/service-instance/my-instance",
+    "templateArn" : "arn:aws:proton:us-east-1:346078522763:service-template/simple-service-tf",
+    "templateMajorVersion" : "3",
+    "templateMinorVersion" : "0",
+    "environmentArn" : "arn:aws:proton:us-east-1:346078522763:environment/cfn-env"
+  }
+}
