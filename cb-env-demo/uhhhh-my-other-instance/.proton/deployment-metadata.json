@@ -1,6 +1,6 @@
 {
-  "deploymentId" : "2d8dd91e-3495-4d08-a2ab-d47ea1df7941",
-  "isResourceDeleted" : false,
+  "deploymentId" : "<proton-resource-deleted>",
+  "isResourceDeleted" : true,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:us-east-1:346078522763:service/uhhhh/service-instance/my-other-instance",
     "templateArn" : "arn:aws:proton:us-east-1:346078522763:service-template/simple-service-tf",
