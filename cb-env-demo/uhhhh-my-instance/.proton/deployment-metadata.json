@@ -1,0 +1,11 @@
+{
+  "deploymentId" : "339c16b9-4900-4008-9599-e3e06c6ef00a",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:346078522763:service/uhhhh/service-instance/my-instance",
+    "templateArn" : "arn:aws:proton:us-east-1:346078522763:service-template/simple-service-tf",
+    "templateMajorVersion" : "3",
+    "templateMinorVersion" : "0",
+    "environmentArn" : "arn:aws:proton:us-east-1:346078522763:environment/cb-env-demo"
+  }
+}
