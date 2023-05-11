@@ -1,0 +1,11 @@
+{
+  "deploymentId" : "4c78dccb-701b-4474-bc1f-dfc3619f8105",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:346078522763:service/hi-woo/service-instance/my-other-instance",
+    "templateArn" : "arn:aws:proton:us-east-1:346078522763:service-template/simple-service-tf",
+    "templateMajorVersion" : "3",
+    "templateMinorVersion" : "0",
+    "environmentArn" : "arn:aws:proton:us-east-1:346078522763:environment/cb-env-demo"
+  }
+}
