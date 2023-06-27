@@ -1,6 +1,6 @@
 {
-  "deploymentId" : "c7c79a8d-eaf8-43cf-b56a-648f0b3a41a7",
-  "isResourceDeleted" : false,
+  "deploymentId" : "<proton-resource-deleted>",
+  "isResourceDeleted" : true,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:us-east-1:346078522763:service/hii/pipeline",
     "templateArn" : "arn:aws:proton:us-east-1:346078522763:service-template/simple-service-tf",
